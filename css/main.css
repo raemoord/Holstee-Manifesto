@@ -1,0 +1,132 @@
+.rectangle1 {
+	width: 200px;
+	height: 375px;
+	float: left;
+	background: #CF5230;
+	border-top: 8px solid #8A6E64;
+	border-left: 8px solid #8A6E64;
+	padding: 25px 10px 20px 10px;
+	text-align: center;
+}
+p1 {
+	color: white;
+	font-family: 'fjalla one', sans-serif; 
+	font-size: 25px;
+}
+p2 {
+	color: white;
+	font-family: 'Raleway';
+	font-size: 25px;
+}
+aside {
+	float: left;
+	border-top: 8px solid #8A6E64;
+	border-right: 8px solid #8A6E64;
+}
+span.bold {
+	font-style: italic;
+}
+.square1 {
+	width: 200px;
+	height: 150px;
+	background: #F59A44;
+	padding: 30px 10px;
+	text-align: center;
+}
+p3 {
+	color: white;
+	font-family: 'Raleway';
+	font-size: 18px;
+}
+.square2 {
+	width: 200px;
+	height: 150px;
+	background: #E3C598;
+	padding: 30px 10px;
+	text-align: center;
+}
+p4 {
+	color: white;
+	font-family: 'Raleway';
+	font-size: 18px;
+}
+.square3 {
+	width: 200px;
+	height: 145px;
+	clear: both;
+	float: left;
+	background: #F59A44;
+	border-left: 8px solid #8A6E64;
+	padding: 30px 10px;
+	text-align: center;
+}
+p5 {
+	color: white;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+.square4 {
+	width: 200px;
+	height: 155px;
+	float: left;
+	background: #6E612F;
+	border-right: 8px solid #8A6E64;
+	padding: 40px 10px 10px 10px;
+	text-align: center;
+}
+p6 {
+	color: white;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+aside1 {
+	clear: both;
+	float: left;
+	border-bottom: 8px solid #8A6E64;
+	border-left: 8px solid #8A6E64;
+}
+.square5 {
+	width: 200px;
+	height: 143px;
+	background: #E3C598;
+	padding: 65px 10px 0px 10px;
+	text-align: center;
+}
+p7 {
+	color: white;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+.square6 {
+	width: 200px;
+	height: 143px;
+	background: #6E612F;
+	padding: 67px 10px 0px 10px;
+	text-align: center;
+}
+p8 {
+	color: white;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+.rectangle2 {
+	width: 200px;
+	height: 379px;
+	float: left;
+	clear: none;
+    background: #CF5230;
+	border-right: 8px solid #8A6E64;
+	border-bottom: 8px solid #8A6E64;
+	padding: 40px 10px 0px 10px;
+	text-align: center;
+}
+p9 {
+	color: white;
+	font-family:'fjalla one';
+	font-size: 25px;
+}
+p10 {
+	color: white;
+	font-family: 'raleway';
+	font-size: 25px;
+}
