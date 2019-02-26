@@ -3,7 +3,7 @@
 body {
     width: 1200px;
     height: auto;
-    margin: 0px 275px;
+    margin: 0 auto;
     background: #36454f;
     font-family: 'Fredericka the Great';
     color: white;
@@ -21,6 +21,8 @@ body {
     width: 600px;
     float: left;
 }
+
+/*****BODY*****/
 
 h1 {
     font-size: 50px;
